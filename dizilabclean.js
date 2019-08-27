@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Auto Skip and Remove ADs in Dizilab
-// @author       WithCreative
+// @author       Seukaiwokeo
 // @match        http://dizilab6.com/*
 // @match        http://dizilab.com/*
 // @grant        none
